@@ -2,6 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3584590-b402-4b6b-afeb-316ced738796" name="Default Changelist" comment="2020年10月25日，类与对象作业提交">
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/core/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/mian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/022e0952-499e-43ab-874a-1d227c8699da-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/0a2f0063-31d1-4536-a1ad-0d9f94884755-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/0d86cb27-d163-457f-94f6-dfda1f5764c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/1353e727-ab22-44a2-807c-920d2149cbbe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/19791cc4-58f0-48ef-8743-0d8239810fcd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/1c067139-d4d2-4a5d-858d-6595f060c5a8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/1ca8c219-36a0-4c29-b8ea-3368cfc80394-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/23141462-bb48-411c-8ea8-3f4ddcef708c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/2c05a4f9-e264-4555-b4f0-f2b5d646a896-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/2c21300e-9544-469d-9f18-91e4b09a3202-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/3b63196e-1704-4678-b380-84cf6b227e5a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/41f09ed8-dcf5-4b29-bfc5-b6051917144a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/447bd7b0-65e5-4cee-b1b1-71131c2cb35e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/47c1821b-429e-4292-849c-2f2dad674a3f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/4d1792c2-da47-4978-b1d5-c90d766adf87-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/51c5bedb-7c97-4fee-8816-f2504d3c8d96-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/55082a56-3141-44a5-bc1e-ba73084e71a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/550f5721-bd89-42bd-9496-f637f35fd599-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/59267ddb-e4f1-46ee-8a0b-09b43bbec58f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/64dedb9c-2c9a-412d-b794-54ca008150af-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/6767f095-25a7-4b69-8345-6384f1cdec3e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/6b185235-efc9-4c84-a9c9-01fc207cf7d4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/6d4e5dd3-1b81-4908-bea4-9e6650a64ede-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/70cb2e9f-874a-49c4-963c-912b597c1329-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/71dc9733-fe55-460f-a602-171a031336a0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/73a9b5a5-ce1f-4d60-8f42-63e78d6be3bd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/740cf38c-6f1e-4d01-9aa8-c36be2f23d31-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/756554a4-3947-44bb-9899-5d0c1293c9fb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/75c7c22f-fd1c-4527-9d92-871ddf954941-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/75d071e8-9536-43f3-a0fd-c945f0875262-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/76e91a17-24f1-4d27-b39f-19384f34a7f4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/7c7a02af-52b8-41ac-92a5-6b3ea2178426-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/7d2a3055-d734-485e-816b-634a14fa1fdc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/82fca0db-0e30-49d3-8128-63eca89959c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/8364a56a-04dd-4057-af8a-00535459640c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/878e3a33-0f2c-4e02-bbbe-018c2c111ff2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/87adeaba-f44f-4a2d-8dc4-51733dc2daac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/8a10e840-fd53-4d87-a86c-c7fe39d5bac1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/8a63195b-be2a-4383-9a68-8bd01bc516a0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/973b9ad6-24c4-4f72-a84e-a897e49a48a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/98bbea61-c7cb-45ce-906b-355dffe644bb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/9adab5b3-de72-4603-b13c-09dcac3b4d1a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/9df2a042-63dc-4c72-9d3f-9f9a5603f389-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/a01b8161-dc7d-4138-a4d6-11d9da2c35b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/a10390d1-9d20-400d-aa0b-3b69c7f6b896-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/a7aa0f3c-b7b3-4fbc-a4f6-b82488ae112c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/aae9085e-2d7b-4ce3-94ac-3c6d731fbc40-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/ab8d16da-9da5-4975-ada6-4f30a3842908-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/aea15ff7-8204-46f5-984b-03c313887efe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/b47ee021-a450-447d-90dc-051ef2fbd8cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/b5634365-3590-446f-a75c-44598d9475c4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/ba6243f9-6c6b-4d2f-a367-d9827ff1e946-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/c11b48f9-82b0-4764-b565-d2082ae23b23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/c534f93a-28f4-4407-9018-208608b029dc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/c9df2bbf-32a0-4e37-bf63-bb62a6dd55b9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/c9e63c1c-fb2c-46b7-a12b-a1b385bf7188-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/ca618d04-768e-4d52-a730-e1c1ec214c66-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/cb5bd51f-a870-409f-b61e-122334038b23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/cc83f92c-aa79-4ab4-ae6c-0880419506d8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/d2ad8003-4975-4c61-8d38-ed4cc8a02991-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/d4fb2787-d9ac-4dc2-a4b5-187dcfd74b10-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/d786aada-e4ca-4ebd-8ee9-ca0b3a47b55a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/d7e3071d-8a47-4d2c-9554-0bbfcaa1681f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/d8d0f5af-faee-40ea-832f-d6d577f120a7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/d959e23e-42ba-47f2-a12d-536e0af2fd97-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/d9db99d4-7257-4103-9906-b0102f2e61ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/da9a9a75-4751-43ea-8c11-319aaab6ecb7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/e01341bf-e370-47f5-a0f2-a53c48bc8242-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/e164d540-977d-4cb2-893f-55c6d83eb45e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/e1ac964d-79d3-46dd-8b18-794941cff9e3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/e8b87bec-ad38-40fd-b728-f9a3aadffbb3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/e8e3adb7-6ced-47f3-a266-8eb3e97f49d1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/eca0d1b1-8f3c-4626-9620-bcfa13be18ca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/f755c6ef-234d-4bee-8779-23cd0cd0d7ca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/output/allure_reports/fbde5b98-56c0-4185-a9fc-fc38e8446c1f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/P_20201027/tests/test_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AllenLG4_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AllenLG4_Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,23 +98,65 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="548cd167-e453-4af1-b7be-838d02767789" />
   <component name="ProjectId" id="1jKOohzILdiAwlKuX9Rc9915yD8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeWork/P_20201027/tests/test_calc.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.task_02">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\AllenLG4_Python\HomeWork\P_20201027" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mian">
+    <configuration name="mian" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AllenLG4_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork/P_20201027" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork/P_20201027/mian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AllenLG4_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,8 +201,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AllenLG4_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork/P_20201027/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork/P_20201027/tests/test_calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_calc.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="AllenLG4_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="F:\python\installfile\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork/P_20201027/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork/P_20201027/tests/test_calc.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.task_01" />
+      <item itemvalue="Python.task_02" />
+      <item itemvalue="Python.test_calc" />
+      <item itemvalue="Python tests.pytest in test_calc.py" />
+      <item itemvalue="Python.mian" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mian" />
+        <item itemvalue="Python.test_calc" />
         <item itemvalue="Python.task_02" />
         <item itemvalue="Python.task_01" />
       </list>
@@ -93,6 +265,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603549492812</updated>
       <workItem from="1603549493841" duration="14900000" />
+      <workItem from="1603893678966" duration="7295000" />
     </task>
     <task id="LOCAL-00001" summary="2020年10月25日，类与对象作业提交">
       <created>1603603506403</created>
@@ -115,30 +288,39 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2020年10月25日，类与对象作业提交" />
     <option name="LAST_COMMIT_MESSAGE" value="2020年10月25日，类与对象作业提交" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="409" y="182" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603895008928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="409" y="182" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603895008928" />
     <state x="557" y="105" key="CommitChangelistDialog2" timestamp="1603605161731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="557" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603605161731" />
-    <state width="1854" height="344" key="GridCell.Tab.0.bottom" timestamp="1603605162711">
+    <state x="735" y="319" key="FileChooserDialogImpl" timestamp="1603894994025">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1854" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603605162711" />
-    <state width="1854" height="344" key="GridCell.Tab.0.center" timestamp="1603605162709">
+    <state x="735" y="319" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603894994025" />
+    <state width="1854" height="279" key="GridCell.Tab.0.bottom" timestamp="1603925438536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1854" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603605162709" />
-    <state width="1854" height="344" key="GridCell.Tab.0.left" timestamp="1603605162708">
+    <state width="1854" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603925438536" />
+    <state width="1854" height="279" key="GridCell.Tab.0.center" timestamp="1603925438536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1854" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603605162708" />
-    <state width="1854" height="344" key="GridCell.Tab.0.right" timestamp="1603605162709">
+    <state width="1854" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603925438536" />
+    <state width="1854" height="279" key="GridCell.Tab.0.left" timestamp="1603925438535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1854" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603605162709" />
+    <state width="1854" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603925438535" />
+    <state width="1854" height="279" key="GridCell.Tab.0.right" timestamp="1603925438536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1854" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603925438536" />
     <state width="1854" height="344" key="GridCell.Tab.1.bottom" timestamp="1603605162712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -155,10 +337,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1854" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603605162712" />
-    <state x="458" y="164" key="SettingsEditor" timestamp="1603551668957">
+    <state x="458" y="164" key="SettingsEditor" timestamp="1603921876432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="458" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603551668957" />
+    <state x="458" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603921876432" />
     <state x="549" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603603881616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -166,6 +348,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AllenLG4_Python$task_02.coverage" NAME="task_02 Coverage Results" MODIFIED="1603603425793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWork/P_20201024" />
+    <SUITE FILE_PATH="coverage/AllenLG4_Python$pytest_in_test_calc_py.coverage" NAME="pytest in test_calc.py Coverage Results" MODIFIED="1603895013206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWork/P_20201027/tests" />
     <SUITE FILE_PATH="coverage/AllenLG4_Python$task_01.coverage" NAME="task_01 Coverage Results" MODIFIED="1603597578122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWork/P_20201024" />
+    <SUITE FILE_PATH="coverage/AllenLG4_Python$mian.coverage" NAME="mian Coverage Results" MODIFIED="1603925430091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWork/P_20201027" />
+    <SUITE FILE_PATH="coverage/AllenLG4_Python$test_calc.coverage" NAME="test_calc Coverage Results" MODIFIED="1603894861836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWork/P_20201027/tests" />
   </component>
 </project>
