@@ -44,7 +44,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeWork/P_20201027/tests/test_calc.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -162,8 +162,8 @@
       <item itemvalue="Python.task_01" />
       <item itemvalue="Python.task_02" />
       <item itemvalue="Python.test_calc" />
-      <item itemvalue="Python tests.pytest in test_calc.py" />
       <item itemvalue="Python.mian" />
+      <item itemvalue="Python tests.pytest in test_calc.py" />
     </list>
     <recent_temporary>
       <list>
@@ -184,6 +184,7 @@
       <updated>1603549492812</updated>
       <workItem from="1603549493841" duration="14900000" />
       <workItem from="1603893678966" duration="8410000" />
+      <workItem from="1604582293129" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="2020年10月25日，类与对象作业提交">
       <created>1603603506403</created>
