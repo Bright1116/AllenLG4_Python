@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3584590-b402-4b6b-afeb-316ced738796" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +188,8 @@
       <workItem from="1603893678966" duration="8410000" />
       <workItem from="1604582293129" duration="810000" />
       <workItem from="1607130530760" duration="7578000" />
-      <workItem from="1607141385757" duration="688000" />
+      <workItem from="1607141385757" duration="718000" />
+      <workItem from="1607168799145" duration="1606000" />
     </task>
     <task id="LOCAL-00001" summary="2020年10月25日，类与对象作业提交">
       <created>1603603506403</created>
@@ -217,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607141149890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新">
+      <created>1607144172079</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607144172079</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,10 +244,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="409" y="182" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603895008928" />
-    <state x="557" y="105" key="CommitChangelistDialog2" timestamp="1607141148820">
+    <state x="557" y="105" key="CommitChangelistDialog2" timestamp="1607144171526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="557" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607141148820" />
+    <state x="557" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607144171526" />
     <state x="735" y="319" key="FileChooserDialogImpl" timestamp="1607131418745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -279,10 +288,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="458" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607139225527" />
-    <state x="549" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607141154290">
+    <state x="549" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607144178554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607141154290" />
+    <state x="549" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607144178554" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AllenLG4_Python$task_02.coverage" NAME="task_02 Coverage Results" MODIFIED="1603603425793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWork/P_20201024" />
