@@ -20,8 +20,6 @@ class TestCalc:
     ])
     def test_mul_int(self, a, b, c):
         assert self.calc.mul(a, b) == c
-        # assert calc.mul(-1, -1) == 1
-        # assert calc.mul(1, -1) == 1
 
     @allure.story("浮点数相乘")
     @pytest.mark.parametrize("a, b, c", [
@@ -35,8 +33,6 @@ class TestCalc:
     ])
     def test_mul_float(self, a, b, c):
         assert self.calc.mul(a, b) == c
-        # assert calc.mul(-1, -1) == 1
-        # assert calc.mul(1, -1) == 1
 
     # 正常值例子
     @allure.story("两个正整数相除")
@@ -65,7 +61,7 @@ class TestCalc:
         [0.2, 0],
         [0, 0]
     ])
-    def test_div_zero(self, a, b):
+    def test_div_by_zero(self, a, b):
         with pytest.raises(Exception):
             assert self.calc.div(a, b)
 
