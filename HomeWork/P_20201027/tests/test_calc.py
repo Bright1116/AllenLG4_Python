@@ -1,24 +1,48 @@
 import pytest
 import allure
+import yaml
 
 from HomeWork.P_20201027.core.calc import Calc
 
 
+def load_data(path=r'F:\python\AllenLG4_Python\HomeWork\P_20201027\tests\data.yaml'):
+    with open(path, encoding='UTF-8') as f:
+        data = yaml.safe_load(f)
+        keys = ",".join(data[0].keys())
+        values = [list(d.values()) for d in data]
+        data = {'keys': keys, 'values': values}
+        return data
+
+
 @allure.feature("calc.py模块测试用例")
 class TestCalc:
+    data = load_data()
+
     def setup_class(self):
         self.calc = Calc()
 
     def setup(self):
         pass
 
+    @allure.step
+    def simple_step(self, step_param1, step_param2=None):
+        pass
+
     @allure.story("整数相乘")
-    @pytest.mark.parametrize("a, b, c", [
-        [1, 2, 2],
-        [-1, -1, 1],
-        [1, -1, -1],
-    ])
+    # @pytest.mark.parametrize("a, b, c", [
+    #     [1, 2, 2],
+    #     [-1, -1, 1],
+    #     [1, -1, -1],
+    # ])
+    @pytest.mark.parametrize(
+        data['keys'],
+        data['values']
+    )
     def test_mul_int(self, a, b, c):
+        allure.attach.file(r'F:\python\AllenLG4_Python\HomeWork\P_20201027\tests\picture.jpg',
+                           '测试访谈',
+                           allure.attachment_type.JPG)
+        self.simple_step(f'{a} {b} {c}')
         assert self.calc.mul(a, b) == c
 
     @allure.story("浮点数相乘")
