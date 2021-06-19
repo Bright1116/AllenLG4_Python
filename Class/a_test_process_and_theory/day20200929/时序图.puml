@@ -1,0 +1,10 @@
+@startuml
+autonumber
+actor user
+database db
+
+Bob -> Alice : hello
+Alice --> Bob : Hi Bob
+Alice <- Bob : how are you
+Alice --> Bob : fine, thanks
+@enduml
